@@ -1,7 +1,7 @@
-KARAMOJA FOOD INSECURITY: Interactive data visualizations for the food security monitoring tool that will be developed by the Dalberg Data Insights for Karamoja 
+# KARAMOJA FOOD INSECURITY: Interactive data visualizations for the food security monitoring tool that will be developed by the Dalberg Data Insights for Karamoja 
 
-link to tableau dashboard :https://public.tableau.com/app/profile/victor.odindo/viz/1234TabIndPro567/InteractivemaponSorghumYield
-Overview 
+link to tableau dashboard :https://public.tableau.com/app/profile/victor.odindo/viz/1234TabIndPro567/KaramajongCropYield
+## Overview 
 
 Karamoja(https://en.wikipedia.org/wiki/Karamoja) is the most food-insecure region of Uganda. One of the main reasons is the low productivity level of the crops due to intense droughts as well as pest and disease outbreaks.
 
@@ -9,20 +9,20 @@ In Karamoja, several NGOs provide technical support as well as farm inputs to th
 
 Dalberg Data Insights (DDI) is developing a new food security monitoring tool to support the decision-making of one of those NGOs active in Karamoja.
 
-Research Question
+## Research Question
 
 As a Data Scientist it is required that an interactive visualization tool of the results be developed for this first crop season. This visualization tool that will be developed will be used as a first mockup of the Food Security Monitoring tool that DDI will develop for the NGO.
 
-Dataset Files 
+## Dataset Files 
 
 Dataset Source [https://archive.org/download/data_20190829/DATA.zip)
 
-Shapefiles
+## Shapefiles
 Boundaries of Uganda Subcounties 
 Boundaries of Uganda Districts 
 Crop Type Map for Sorghum (i.e. position of the Sorghum fields)
 Crop Type Map for Maize
-Tables
+## Tables
 Yield and Population per Subcounty
 POP: total population for the subcounty 
 S_Yield_Ha: average yield for sorghum for the subcounty (Kg/Ha)
